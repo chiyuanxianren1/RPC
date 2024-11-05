@@ -8,16 +8,6 @@
 
 
 
-## 项目展示
-
-目录结构：
-
-![](./docs/tutorial.jpg)
-
-
-详细的保姆级文字教程：
-
-![](./docs/structure.jpg)
 
 
 
@@ -51,20 +41,12 @@
 
 ## 源码目录
 
-- yu-rpc-core：鱼皮 RPC 框架核心代码
-- yu-rpc-easy：鱼皮 RPC 框架简易版（适合新手入门）
-- example-common：示例代码公用模块
-- example-consumer：示例服务消费者
-- example-provider：示例服务提供者
-- example-springboot-consumer：示例服务消费者（Spring Boot 框架）
-- example-springboot-provider：示例服务提供者（Spring Boot 框架）
+- yu-rpc-core：RPC 框架核心代码
 - yu-rpc-spring-boot-starter：注解驱动的 RPC 框架，可在 Spring Boot 项目中快速使用
 
 
 
-## 项目教程大纲
 
-这个项目内容非常多，大家可以看看有没有自己想学的知识点。
 
 
 
