@@ -1,0 +1,2 @@
+no=com.xg.rpc.fault.retry.NoRetryStrategy
+fixedInterval=com.xg.rpc.fault.retry.FixedIntervalRetryStrategy

@@ -1,0 +1,4 @@
+failBack=com.xg.rpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.xg.rpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.xg.rpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.xg.rpc.fault.tolerant.FailSafeTolerantStrategy
