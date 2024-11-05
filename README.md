@@ -41,8 +41,8 @@
 
 ## 源码目录
 
-- yu-rpc-core：RPC 框架核心代码
-- yu-rpc-spring-boot-starter：注解驱动的 RPC 框架，可在 Spring Boot 项目中快速使用
+- rpc-core：RPC 框架核心代码
+- rpc-spring-boot-starter：注解驱动的 RPC 框架，可在 Spring Boot 项目中快速使用
 
 
 
